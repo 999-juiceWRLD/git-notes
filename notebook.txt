@@ -1,0 +1,9 @@
+notebook created.
+
+empty.txt created.
+
+empty.txt is added to staging area.
+empty.txt is removed from staing are, using `git restore --staged 
+empty.txt`.
+empty.txt is added to local repo.
+empty.txt is removed from local repo, using `git rm --cached empty.txt`.
