@@ -55,7 +55,7 @@ stashes by using `git stash list`.
 - to clear a stash, enter `git stash clear`.
 
 - if you want to turn back to previous commits, then `git reset --hard 
-<commit_hash>`. if `--hard``isn't used, then the commits are deleted by 
+<commit_hash>`. if `--hard` isn't used, then the commits are deleted by 
 changes to files are remained.
 
 - `git revert` simply used for undoing changes, without deleting the 
